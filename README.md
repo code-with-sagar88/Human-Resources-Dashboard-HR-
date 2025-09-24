@@ -28,7 +28,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Dataset details  
 - Author information  
 
-https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/dashboards/Human%20Reasources%20Dashboard%20%20Detailed.png
+![Welcome Dashboard](https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/Welcome%20HR%20Dashboard.png)  
 
 ---
 
@@ -39,7 +39,7 @@ https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/das
 - Education vs Performance Analysis  
 - Salary Distribution (Age vs Salary, Role vs Salary)  
 
-![Overview Dashboard](dashboards/overview.png)  
+![Overview Dashboard](https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/Human%20Reasources%20Dashboard%20Overviwe.png)  
 
 ---
 
@@ -49,7 +49,7 @@ https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/das
 - Salary Range & Employment Duration  
 - Role & Geographic Filters  
 
-![Detailed Dashboard](dashboards/detailed.png)  
+![Detailed Dashboard](https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/Human%20Reasources%20Dashboard%20Detailed.png)  
 
 ---
 
@@ -73,4 +73,4 @@ https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/das
 
 ---
 
-🚀 This project is designed to provide **quick, data-driven HR insights** for effective decision making. 
+🚀 This project is designed to provide **quick, data-driven HR insights** for effective decision making.  
