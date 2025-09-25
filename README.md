@@ -28,7 +28,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Dataset details  
 - Author information  
 
-![Welcome Dashboard](dashboard/Welcome%20HR%20Dashboard.png)
+![Welcome Dashboard](dashboards/Welcome%20HR%20Dashboard.png)
 
 ---
 
