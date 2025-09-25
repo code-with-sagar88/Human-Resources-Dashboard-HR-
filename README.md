@@ -39,7 +39,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Education vs Performance Analysis  
 - Salary Distribution (Age vs Salary, Role vs Salary)  
 
-![Overview Dashboard](https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/Human%20Reasources%20Dashboard%20Overviwe.png)  
+![Overview Dashboard](dashboards/Human%20Reasources%20Dashboard%20Overview.png) 
 
 ---
 
@@ -49,7 +49,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Salary Range & Employment Duration  
 - Role & Geographic Filters  
 
-![Detailed Dashboard](https://github.com/code-with-sagar88/Human-Resources-Dashboard-HR-/blob/main/Human%20Reasources%20Dashboard%20Detailed.png)  
+![Detailed Dashboard](dashboards/Human%20Reasources%20Dashboard%20Detailed.png) 
 
 ---
 
