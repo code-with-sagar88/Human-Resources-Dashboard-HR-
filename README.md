@@ -49,7 +49,7 @@ A Tableau project by **Sagar Dabhade** showcasing interactive dashboards for ana
 - Salary Range & Employment Duration  
 - Role & Geographic Filters  
 
-![Detailed Dashboard](dashboards/Human%20Reasources%20Dashboard%20Detailed.png) 
+![HR Dashboard Detailed](dashboards/Human%20Reasources%20Dashboard%20%20Detailed.png)
 
 ---
 
